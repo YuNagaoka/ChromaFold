@@ -1,4 +1,4 @@
-name: cuda111_torch
+name: chromafold
 channels:
   - anaconda
   - dglteam
